@@ -1,0 +1,5 @@
+Como funcionalidad extra, cambiamos los botones predeterminados de "edit" y "remove" por "save" y "cancel" cuando queremos editar un nombre. Además, si el nombre editado se repite, avisa con un alert y no lo cambia. También añadimos un contador de invitados.
+
+Con la página https://jshint.com/ solo nos da un warning avisando del uso de 'use strict', pero si lo quitamos en Brackets salen varios fallos relacionados, por lo que lo dejamos así.
+
+
